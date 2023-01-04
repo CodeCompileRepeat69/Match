@@ -1,2 +1,2 @@
 # Match
-testing ways to pettern matching in a generic way
+testing ways to pattern matching in a generic way
